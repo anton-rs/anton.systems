@@ -7,7 +7,7 @@ const Hero = () => (
     height="100vh"
     bgClip="text"
   >
-    <Image src="/anton.png" alt="Anton Labs" width="300" height="300" />
+    <Image src="/anton.png" alt="Anton Systems" width="300" height="300" />
   </Flex>
 )
 

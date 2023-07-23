@@ -8,7 +8,7 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>Refcell Capital</title>
+        <title>Anton Systems</title>
         <link rel="icon" href="/anton.ico" />
       </Head>
       <ChakraProvider theme={theme}>
